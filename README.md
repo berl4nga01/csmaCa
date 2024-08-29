@@ -25,3 +25,5 @@ Running informations
 
 *When you run, probably will be similar to this:*
   `.\csmaCa.exe`
+  
+PS (Again): The source code are avaliable to be studied and recompilations on unix OS's. I really suggest that you read the source code for a better understand.
